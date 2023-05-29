@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "703517450989",
+    "project_id": "cek-bansos-pkh-kemensos",
+    "storage_bucket": "cek-bansos-pkh-kemensos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703517450989:android:1e881fdb8b1952ef5a62e4",
+        "android_client_info": {
+          "package_name": "com.putriayu.bansos.kemensos.pkh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLYIkWvsmYnq6ZrW7rizuj1Dcdghhh9V4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
